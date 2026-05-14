@@ -60,6 +60,13 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaliaqattts-star&layout=compact&hide_border=true&bg_color=FFF5EE&title_color=FF8C69&text_color=4A4A4A" />
 </div>
 
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizaliaqattts-star&bg_color=181717&color=7db9e8&line=7db9e8&point=ffffff&area=true&hide_border=true" width="100%" alt="Faiza's Activity Graph" />
+</div>
 
 ---
 
