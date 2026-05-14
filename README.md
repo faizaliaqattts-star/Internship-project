@@ -50,8 +50,8 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
 
   <br /><br />
 
-  <!-- Sir jaisi separate boxed trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <!-- Beautiful Colorful Trophies - 6 in a row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=outrun&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=false&border_radius=10" alt="GitHub Trophies" />
 
   <br /><br />
 
