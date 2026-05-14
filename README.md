@@ -41,7 +41,6 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   <img src="https://img.shields.io/badge/TypeScript-F0F8FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Drupal-F5F5F5?style=for-the-badge&logo=drupal&logoColor=0678BE" />
 </div>
----
 
 ### 📊 GitHub Stats
 
@@ -49,23 +48,18 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   <!-- Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizaliaqattts-star&theme=peach&hide_border=true" alt="GitHub Streak" />
 
-  <br />
+  <br /><br />
+
+  <!-- Sir jaisi separate boxed trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C&column=3&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+
+  <br /><br />
 
   <!-- Main Stats Cards -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizaliaqattts-star&show_icons=true&hide_border=true&bg_color=FFF5EE&title_color=FF8C69&icon_color=FFB6C1&text_color=4A4A4A" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaliaqattts-star&layout=compact&hide_border=true&bg_color=FFF5EE&title_color=FF8C69&text_color=4A4A4A" />
-
-  <br /><br />
-
-  <!-- Professional Trophies Section with Light Theme -->
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td bgcolor="#FFF5EE" style="border-radius: 10px; padding: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=flat&column=4&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
 </div>
+
 
 ---
 
