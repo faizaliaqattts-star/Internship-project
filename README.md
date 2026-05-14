@@ -15,34 +15,23 @@
 </div>
 
 ---
+
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Faiza Liaqat — a passionate **Software Development Intern at the Punjab Information Technology Board (PITB)**, based in **Lahore, Pakistan**.
 
-Hi, I'm **Faiza Liaqat** — a passionate **Software Development Intern at the Punjab Information Technology Board (PITB)**, based in **Lahore, Pakistan**.
+I love crafting clean, modern, and user-friendly digital experiences. My focus areas blend engineering with creativity — from building scalable CMS solutions to digital fashion visualization.
 
-I love crafting clean, modern, and user-friendly digital experiences. My focus areas blend engineering with creativity — from building scalable CMS solutions to exploring how design shapes the way people interact with technology.
+---
 
-🎨 **Interests:**  
-- ✨ UI/UX Design & Front-end Development  
-- 👗 Digital Fashion Visualization  
-- 🌐 Building accessible, beautiful web experiences  
+### 🚀 Currently Working On
 
-</td>
-<td width="35%" valign="top">
+*   🌷 **PITB-dev**: Internal development initiatives at the Punjab Information Technology Board.
+*   🌸 **pitb-blueprints-portal**: A modern blueprints portal built with Lovable.
 
-```yaml
-👩‍💻 Name:     Faiza Liaqat
-🏢 Company:   PITB
-📍 Location:  Lahore, PK
-💻 Stack:     Drupal · TS
-🎨 Loves:     UI/UX · Design
-🌱 Learning:  Digital Fashion
-</td> </tr> </table>
+---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-FFE4E1?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -52,14 +41,16 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   <img src="https://img.shields.io/badge/Drupal-F5F5F5?style=for-the-badge&logo=drupal&logoColor=0678BE" />
 </div>
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizaliaqattts-star&show_icons=true&hide_border=true&bg_color=FFF5EE&title_color=FF8C69&icon_color=FFB6C1&text_color=4A4A4A" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaliaqattts-star&layout=compact&hide_border=true&bg_color=FFF5EE&title_color=FF8C69&text_color=4A4A4A" />
 </div>
 
-🌷 Connect With Me
+---
+
+### 🌷 Connect With Me
 
 <div align="center">
   <a href="mailto:faizaliaqattts@gmail.com">
@@ -73,8 +64,9 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <br />
   "Designing pixel by pixel, building experience by experience." 🌸
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%"/>
