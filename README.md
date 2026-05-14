@@ -15,14 +15,13 @@
 </div>
 
 ---
-
 ## 🌸 About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
- **Faiza Liaqat** — a passionate **Software Development Intern at the Punjab Information Technology Board (PITB)**, based in **Lahore, Pakistan**.
+Hi, I'm **Faiza Liaqat** — a passionate **Software Development Intern at the Punjab Information Technology Board (PITB)**, based in **Lahore, Pakistan**.
 
 I love crafting clean, modern, and user-friendly digital experiences. My focus areas blend engineering with creativity — from building scalable CMS solutions to exploring how design shapes the way people interact with technology.
 
@@ -34,8 +33,7 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
 </td>
 <td width="35%" valign="top">
 
-
-  ```yaml
+```yaml
 👩‍💻 Name:     Faiza Liaqat
 🏢 Company:   PITB
 📍 Location:  Lahore, PK
@@ -43,19 +41,7 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
 🎨 Loves:     UI/UX · Design
 🌱 Learning:  Digital Fashion
 </td> </tr> </table>
-🚀 Currently Working On
-<table> <tr> <td width="50%">
-🌷 PITB-dev
-Internal development initiatives at the Punjab Information Technology Board, focused on scalable government digital services.
 
-Drupal PHP Twig
-
-</td> <td width="50%">
-🌸 pitb-blueprints-portal
-'A modern blueprints portal built with Lovable, delivering a polished and intuitive user experience'.
-Lovable TypeScript React
-
-</td> </tr> </table>
 🛠️ Tech Stack
 
 <div align="center">
