@@ -50,8 +50,8 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
 
   <br /><br />
 
-  <!-- Colorful Boxed Trophies - All 8 Forced to Show -->
-  <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&column=4&margin-w=10&margin-h=10&no-bg=false&no-frame=false&border_radius=10" alt="GitHub Trophies" />
+  <!-- Fixed 6 Trophies Layout (Back to Basics) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=faizaliaqattts-star&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 
   <br /><br />
 
