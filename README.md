@@ -88,6 +88,8 @@ Lovable TypeScript React
 </div>
 
 <div align="center">
-"Designing pixel by pixel, building experience by experience." 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%"/> </div> ```
+  <br />
+  "Designing pixel by pixel, building experience by experience." 🌸
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" width="100%"/>
+</div>
