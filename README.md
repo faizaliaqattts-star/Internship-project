@@ -24,11 +24,12 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 Key Projects & Initiatives
 
-*   🌷 **PITB-dev**: Internal development initiatives at the Punjab Information Technology Board.
-*   🌸 **pitb-blueprints-portal**: A modern blueprints portal built with Lovable.
-
+*   🌷 **PITB-dev**: Developing scalable internal digital solutions and government service modules using **Drupal** and **PHP**.
+*   🌸 **Blueprints Portal**: Crafting a high-performance, responsive portal focused on intuitive user experience and clean **TypeScript** architecture.
+*   ✨ **Personal Portfolio**: A modern, interactive showcase of my web development journey and technical expertise, built with a focus on performance.
+*   👗 **Digital Fashion Viz**: Exploring the intersection of technology and style through custom digital fashion visualizations and high-fidelity image editing.
 ---
 
 ### 🛠️ Tech Stack
@@ -40,6 +41,7 @@ I love crafting clean, modern, and user-friendly digital experiences. My focus a
   <img src="https://img.shields.io/badge/TypeScript-F0F8FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Drupal-F5F5F5?style=for-the-badge&logo=drupal&logoColor=0678BE" />
 </div>
+
 
 ### 📊 GitHub Stats
 
